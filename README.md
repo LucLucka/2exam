@@ -14,9 +14,9 @@
 - **Don't just copy-paste** your answers and solutions, use your own words instead
 - **Don't push your work** to GitHub until your mentor announces that the time is up
 
-# Green Fox Lending Library
+# Lending Library
 
-Green Fox Academy would like to create a programming e-book library for current students and alumni
+Academy would like to create a programming e-book library for current students and alumni
 and they need your help! Please read the app requirements & API guide below to make this goal a
 reality.
 
